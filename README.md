@@ -1,3 +1,4 @@
+
 # Favourite Student List
 
 A responsive React application demonstrating React Router, `createContext()`, `useContext()`, dynamic rendering with `map()`, adding/removing favourites, and duplicate prevention.
@@ -90,3 +91,6 @@ favourite-student-list/
 - This is a front-end demonstration with sample student data. Replace `src/data/students.js` with your actual student records if needed.
 - GitHub Pages is static hosting. This app does not require a backend or secrets.
 - The app uses `HashRouter` so direct navigation and refreshes work on GitHub Pages.
+=======
+# Favourite-student-Website
+
